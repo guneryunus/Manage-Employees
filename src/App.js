@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div className="container-xl">
         <div className="table-responsive">
-          <div className="table-wrapper"> 
+          <div className="table-wrapper">  
             <div className="table-title">
               <div className="row">
                 <div className="col-sm-6">
